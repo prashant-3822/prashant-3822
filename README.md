@@ -1,7 +1,7 @@
 ## Hi there 👋
-Hi there, Its me Prashant! 🙋🏻‍♀️
+Hi there, Its me Prashant! 🙋🏻‍♀
 About Me
-I'm a Data Analyst with a Bachelor's Degree in Commerce. I love working on real-life projects and leveraging tools like Excel, Power BI, Python, SQL, and AI to turn data into actionable insights.
+I'm a Data Analyst with a Bachelor's Degree in Me. I love working on real-life projects and leveraging tools like Excel, Power BI, Python, SQL, and AI to turn data into actionable insights.
 
 🌱 Currently honing my skills in Data Analysis.
 📊 Passionate about creating data-driven solutions and developing insightful dashboards.
